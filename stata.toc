@@ -1,4 +1,4 @@
 
 v 0.5
-d Michael Droste, thedroste@gmail.com
-p 'scheme-modern': pretty schemes for stata
+d Petra Kelly, petra.sarapatkova@gmail.com
+p 'scheme-trial': adapted Stata scheme
