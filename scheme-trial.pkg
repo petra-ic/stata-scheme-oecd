@@ -1,0 +1,8 @@
+v 1.0
+d
+d 'scheme-trial': adapted scheme for Stata
+d
+d Distribution-Date: 20190701
+d
+f scheme-trial.scheme
+f scheme-petra.scheme
