@@ -40,9 +40,9 @@ They have to be downloaded separately.
 
 # Two-way bar chart
 
-For stacked two-way bar charts, add this to prevent them from hovering above the axis and from the x-axis ticks showing:
+For stacked two-way bar charts, add this to prevent them from hovering above the axis and the x-axis ticks from showing:
 
 ```stata
-xlabel(2010(1)2020, tposition(outside)) plotregion(margin(b = 0))
+xlabel(, tposition(outside)) plotregion(margin(b = 0))
 ```
 
