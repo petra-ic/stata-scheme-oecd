@@ -1,0 +1,8 @@
+v 1.0
+d
+d 'scheme-oecddarkblue': adapted scheme for Stata
+d 'scheme-oecdcolourful': adapted scheme for Stata
+d Distribution-Date: 20190701
+d
+f scheme-oecddarkblue.scheme
+f scheme-oecdcolourful.scheme
