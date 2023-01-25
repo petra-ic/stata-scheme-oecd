@@ -1,4 +1,4 @@
 
 v 0.5
 d Petra Kelly, petra.sarapatkova@gmail.com
-p 'scheme-trial': adapted Stata scheme
+p 'scheme-oecdblue': adapted Stata scheme
