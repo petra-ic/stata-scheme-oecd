@@ -4,7 +4,7 @@ These two stata schemes efficiently implement a look that is consistent with the
 
 # Installation
 
-Installing and using these schemes is straightforward. Install from this GitHub repository and load by typing the following command at the command lines:
+Installing and using these schemes is straightforward. Install from this GitHub repository and load by typing the following commands:
 
 1. Dark blue theme
 
@@ -22,7 +22,7 @@ set scheme oecdcolourful, perm
 
 # Fonts
 
-The R scheme uses Arial narrow, you can set this as follows:
+The R scheme uses Arial Narrow, which works well in charts. You can set this as follows:
 
 
 ```stata
