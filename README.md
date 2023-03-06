@@ -13,7 +13,7 @@ net install scheme-oecddarkblue, from("https://raw.githubusercontent.com/petra-i
 set scheme oecddarkblue, perm
 ```
 
-2. GG dark blue scheme - charts have a grey background and white gridlines, otherwise same as 1.)
+2. GG dark blue scheme - charts have a grey background and white gridlines similarly to the ggplot package default in R, otherwise same as 1.)
 
 ```stata
 net install scheme-ggoecddarkblue, from("https://raw.githubusercontent.com/petra-ic/stata-scheme-oecd/main/")
