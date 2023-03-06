@@ -2,4 +2,5 @@
 v 0.5
 d Petra Kelly, petra.sarapatkova@gmail.com
 p 'scheme-oecddarkblue': adapted Stata scheme
+p 'scheme-ggoecdcolourful': adapted Stata scheme
 p 'scheme-oecdcolourful': adapted Stata scheme
