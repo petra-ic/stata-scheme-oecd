@@ -47,12 +47,12 @@ They have to be downloaded separately.
 
 # Two-way bar chart and other add-ons
 
-Some features are unfortunately impossible to regulate within the scheme itself but can be easily fixed with add-on code on the fly.
+Some features are unfortunately impossible to regulate within the scheme itself but can be easily fixed with a short add-on code on the fly.
 
 For stacked two-way bar charts, add this to prevent them from hovering above the axis and the x-axis ticks from showing:
 
 ```stata
-xlabel(, tposition(outside)) plotregion(margin(b = 0))
+xlabel(, tposition(inside) noticks) plotregion(margin(b = 0))
 ```
 
 For the 'ggplot' inspired scheme with dark background, add this if you also want the legend to have grey background. 
